@@ -1,0 +1,28 @@
+---
+layout: project
+title:  "In Motion"
+date:   2013-04-27 00:42:44
+categories: 
+madeWith: "FH Salzburg"
+technology: "C++, OpenGL, Cinder, Thermal Imaging"
+frontImageUrl: https://farm3.staticflickr.com/2930/14490091692_d6efb725ba_o.jpg
+---
+
+{% oembed http://vimeo.com/73442099 width=780 %}
+
+*In Motion* is an improvisational dance performance with interactive sound and visuals and is the result of a collaboration with 8th Semester students of the [Orff Institute][orff] in Salzburg.
+
+The project was done with: Thomas Wagner & Gerlinde Emsenhuber, while at the MMT department of [FH Salzburg][fh].
+
+Some more information can be found in the [project][pels] page.
+
+{% oembed http://www.flickr.com/photos/okinp/14304396250/ width=780 %}
+
+{% oembed http://www.flickr.com/photos/okinp/14326948308/ width=780 %}
+
+{% oembed http://www.flickr.com/photos/okinp/14326947538/ width=780 %}
+
+
+[orff]: http://http://www.orffinstitut.at/
+[fh]:   http://www.fh-salzburg.ac.at/
+[pels]: http://www.pels.at/in-motion/

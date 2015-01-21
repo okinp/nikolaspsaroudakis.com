@@ -1,0 +1,25 @@
+---
+layout: project
+title:  "Avgo"
+date:   2011-06-19 00:42:44
+categories: 
+madeWith: "Michael Doherty"
+technology: "Vectorworks, CNC Milling"
+frontImageUrl: https://farm3.staticflickr.com/2897/14317492280_442fcb43b6_o.png
+---
+
+{% oembed http://www.flickr.com/photos/okinp/14326857390/ width=780 %}
+
+*Avgo* is a chair that was inspired by Henrik Thor-Larsen’s *Ovalia* egg shaped chair. It was designed in Vectorworks and fabricated using a CNC mill. No glue or screws were used in the assembly of the chair, since the slices were press-fitted together.
+
+Avgo was featured in [Core77][core77] and exhibited in [3rd Ward][3rdWard] and the ITP Spring Show in 2011.
+
+Avgo was designed and fabricated with [Michael Doherty][mzd].
+
+{% oembed http://www.flickr.com/photos/okinp/14512132874/ width=780 %}
+{% oembed http://www.flickr.com/photos/okinp/14513521645/ width=780 %}
+{% oembed http://www.flickr.com/photos/okinp/14513522545/ width=780 %}
+
+[mzd]: http://neufuture.com/
+[core77]: http://www.core77.com/gallery/itp-spring-show-2011/70.asp
+[3rdWard]: http://en.wikipedia.org/wiki/3rd_Ward_Brooklyn

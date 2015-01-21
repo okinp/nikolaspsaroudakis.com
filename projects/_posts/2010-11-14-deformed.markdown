@@ -1,0 +1,25 @@
+---
+layout: project
+title:  "de:formed"
+date:   2010-11-14 00:42:44
+categories: 
+madeWith: "Tamar Ziv"
+technology: "OpenFrameworks"
+frontImageUrl: https://farm4.staticflickr.com/3904/14503819321_d26a661d93_o_d.png
+---
+{% oembed http://vimeo.com/99348701 width=780 %}
+
+**de:formed** is a project created for the 120ft (36.6m) long video wall at the [IAC][iac-url] headquarters in NYC. It was coded in OpenFrameworks and employed a multiprojector / multicomputer setup.
+
+Inspired by the work of Ryoji Ikeda, sine waves were used as graphic generators to create the desired digital aesthetic.
+
+de:formed is a collaborative project with [Tamar Ziv][tamar-url]
+
+{% oembed http://www.flickr.com/photos/okinp/14326929888 width=780 %}
+
+{% oembed http://www.flickr.com/photos/okinp/14512408122 width=780 %}
+
+{% oembed http://www.flickr.com/photos/okinp/14533626693 width=780 %}
+
+[iac-url]: http://iac.com/
+[tamar-url]: http://www.tamarziv.com/

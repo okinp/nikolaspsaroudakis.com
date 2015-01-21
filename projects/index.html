@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% for project in site.categories.projects %}
+<article class="project">
+    <aside>
+
+      {% if project.madeWith %}
+      With {{project.madeWith}}
+      <br>
+      {% endif %}
+      {% if project.technology %}
+      Technology:
+      <br>
+      {{project.technology}}
+      {% endif %}
+    </aside>
+    <section>
+      <div class= "project_header">
+        <div class="title">{{project.title}}</div>
+        <div class="year">{{ project.date | date: "%Y" }}</div>
+      </div>
+        <a href= "{{project.url}}">
+          <img src= {{ project.frontImageUrl }} alt="Image">
+        </a> 
+    </section>
+</article>
+{% endfor %}
