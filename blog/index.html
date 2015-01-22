@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% for post in site.categories.blog %}
+<article class="post">
+    <aside>
+      <div class = "date">
+        {{ post.date | date: "%-d %B %Y" }}
+      </div>
+    </aside>
+    <section>
+      {{post.title}}
+    </section>
+</article>
+{% endfor %}
