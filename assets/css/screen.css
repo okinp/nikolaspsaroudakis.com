@@ -194,6 +194,17 @@ article.about {
 article.about p {
   font-size: 0.8rem;
 }
+
+/*---Tags-------*/
+
+.tagcloud {
+  font-family: 'Metrophobic', Futura, Helvetica Neue, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #505050;
+}
 /*--------MEDIA-----------*/
 div.oembed,
 div.video {

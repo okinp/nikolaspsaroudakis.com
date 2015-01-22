@@ -7,6 +7,7 @@ madeWith: "Rune Madsen"
 technology: "Arduino, Sensors, XBee, Processing"
 frontImageUrl: https://farm3.staticflickr.com/2924/14321057770_ddd48f542a_o.png
 ---
+
 {% oembed http://vimeo.com/99401865 width=780 %}
 
 *Runik’s Cubes* is a set of cubes that can be used to wirelessly control music and video through midi.
