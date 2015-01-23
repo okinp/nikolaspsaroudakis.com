@@ -6,6 +6,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nikolaspsaroudakis.com" # the base hostname & protocol for your site
 twitter_username: okinp
 github_username:  okinp
+blog:
+    tags:
+        url: /blog/tags/
+        title_prefix: "blog - tag: "
+        layout: tag.html
 
 # Build settings
 markdown: kramdown
+

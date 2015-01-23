@@ -119,7 +119,6 @@ article.project aside {
   vertical-align: baseline;
   font-size: 0.65rem;
   margin-right: 0.2em;
-  margin-left: 0.5em;
   padding-top: 0;
 }
 article.project section {
@@ -133,7 +132,7 @@ article.project section {
 }
 article.post {
   display: block;
-  width: 819.9999999999999px;
+  width: 820px;
   margin: 0 -10px;
   *zoom: 1;
 }
@@ -153,14 +152,19 @@ article.post aside {
   float: left;
   width: 140px;
   margin: 0 10px;
-  border-top: 1px solid #ccc;
+  vertical-align: baseline;
+  font-size: 0.65rem;
+  margin-right: 0.2em;
+  padding-top: 0;
 }
 article.post section {
   display: inline;
   float: left;
   width: 620px;
   margin: 0 10px;
+  margin-left: 0;
   border-top: 1px solid #ccc;
+  padding-top: 0;
 }
 article.post-content {
   border-top: 1px solid #ccc;
@@ -196,14 +200,32 @@ article.about p {
 }
 
 /*---Tags-------*/
-
+.taginfo p {
+  display: inline;
+  float: left;
+  vertical-align: baseline;
+  font-size: 0.8rem;
+  margin-right: 0.2em;
+  margin-bottom: 10px;
+  margin-top: 0;
+  padding-top: 0;
+  width: 820px;
+}
 .tagcloud {
-  font-family: 'Metrophobic', Futura, Helvetica Neue, Helvetica, sans-serif;
-  font-weight: 500;
-  font-size: 0.55rem;
+  font-family: 'helvetica neue',helvetica,arial,sans-serif;
+    font-weight: 800;
+  font-size: 13px;
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: small-caps;
+  color: #505050;
+
+/*  font-family: 'Metrophobic', Futura, Helvetica Neue, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 0.25rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #505050;
+*/
 }
 /*--------MEDIA-----------*/
 div.oembed,
